@@ -1,0 +1,4 @@
+.ag-theme-alpine {
+  --ag-header-foreground-color: white !important;
+  --ag-header-background-color: black !important;
+}
